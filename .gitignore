@@ -1,3 +1,7 @@
+# my gitignores
+.gitattributes
+
+
 # Github's default gitignore for Python
 
 # Byte-compiled / optimized / DLL files
